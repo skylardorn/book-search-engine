@@ -8,5 +8,4 @@
 
 
 ## Project Link
-    <!-- https://skylardorn.github.io/book-search-engine/ -->
-
+[Run Book Search Application](https://skylardorn.github.io/book-search-engine/ "Book Search Engine")
